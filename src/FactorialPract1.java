@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Pract2 {
+public class FactorialPract1 {
     public static long Factorial(long n){
         if (n<=0){
             return 1;
